@@ -5,7 +5,7 @@ My first tensorflow project, this is a pretty cool tutorial where you apply the 
 You can find the tutorial here, would definately reccomend giving it a go if you're new to ML or ANNs aswell:
 https://colab.research.google.com/github/tensorflow/models/blob/master/research/nst_blogpost/4_Neural_Style_Transfer_with_Eager_Execution.ipynb#scrollTo=aDyGj8DmXCJI
 
-**Thought this was pretty cool so I'd share it**
+**Thought this was pretty cool so I shared it**
   ![inputs](inputs.JPG)
  
   ![process](process.JPG)
